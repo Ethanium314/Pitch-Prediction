@@ -1,0 +1,886 @@
+Catcher,Pitcher,Hitter,Pitch,Swing,Strike,Balls,Strikes,Outs,1B,2B,3B
+simms,burns,rak,0,1,1,0,0,0,0,0,0
+simms,burns,rak,1,0,0,0,1,0,0,0,0
+simms,burns,rak,0,0,0,1,1,0,0,0,0
+simms,burns,rak,0,1,1,2,2,0,0,0,0
+simms,burns,rak,0,0,0,3,2,0,0,0,0
+simms,burns,rak,0,0,0,3,2,0,0,0,0
+simms,burns,plant,0,1,0,0,0,0,1,0,0
+simms,burns,plant,1,1,1,0,1,0,1,0,0
+simms,burns,parker,0,1,1,0,0,2,0,0,0
+simms,burns,parker,0,1,1,0,1,0,0,0,0
+simon,jakin,dame,0,0,0,0,0,0,0,0,0
+simon,jakin,dame,0,0,0,1,0,0,0,0,0
+simon,jakin,dame,1,0,0,2,0,0,0,0,0
+simon,jakin,dame,0,1,1,3,0,0,0,0,0
+simon,jakin,dame,0,1,1,3,1,0,0,0,0
+simon,jakin,dame,0,1,1,3,2,0,0,0,0
+simon,jakin,aryo,0,1,1,0,0,0,1,0,0
+simon,jakin,aryo,0,1,1,0,1,0,0,0,0
+simon,jakin,aryo,0,1,0,0,2,0,0,0,0
+simon,jakin,simms,0,1,1,0,0,1,0,0,0
+simon,jakin,fast,0,1,1,0,0,1,1,0,0
+simon,jakin,fast,0,0,0,0,1,2,0,1,0
+simon,jakin,fast,0,0,0,1,1,2,0,0,0
+simon,jakin,fast,0,0,0,2,1,2,0,0,0
+simon,jakin,rak,0,0,0,0,0,2,1,1,0
+simon,jakin,rak,0,0,0,1,0,2,1,1,0
+simon,jakin,rak,1,1,0,2,0,2,1,1,0
+simon,jakin,rak,0,0,0,2,1,2,0,0,0
+simon,jakin,rak,0,1,0,3,1,2,0,0,0
+simon,jakin,rak,0,1,1,3,2,2,0,0,0
+simon,jakin,rak,1,0,0,3,2,2,0,0,0
+simon,jakin,plant,1,0,0,0,0,2,1,1,1
+simon,jakin,plant,0,0,0,1,0,2,0,0,0
+simon,jakin,plant,1,1,0,1,1,2,0,0,0
+simon,jakin,plant,0,1,1,1,2,2,0,0,0
+simon,jakin,parker,1,0,0,0,0,2,1,1,0
+simon,jakin,parker,0,0,0,1,0,2,0,0,0
+simon,jakin,parker,0,1,1,2,1,2,0,0,0
+simon,jakin,parker,0,1,0,2,2,2,0,0,0
+simon,jakin,parker,0,0,0,2,2,2,0,0,0
+simon,jakin,parker,1,1,0,3,2,3,0,0,0
+simms,burns,dame,0,1,1,0,0,0,0,0,0
+simms,burns,dame,1,0,0,0,1,0,0,0,0
+simms,burns,dame,0,0,0,1,1,0,0,0,0
+simms,burns,dame,0,0,0,2,1,0,0,0,0
+simms,burns,dame,0,1,1,3,1,0,0,0,0
+simms,burns,dame,0,0,0,3,2,0,0,0,0
+simms,burns,aryo,0,0,0,0,0,0,1,0,0
+simms,burns,aryo,0,0,1,1,0,0,0,1,0
+simms,burns,aryo,0,0,0,1,1,0,0,0,0
+simms,burns,aryo,0,0,0,2,1,0,0,0,0
+simms,burns,aryo,0,0,0,3,1,0,0,0,0
+simms,burns,simon,0,1,1,0,0,0,1,0,1
+simms,burns,simon,0,1,1,0,1,0,0,0,0
+simms,burns,simon,0,0,1,0,2,0,0,0,0
+simms,burns,fast,1,0,0,0,0,1,0,0,0
+simms,burns,fast,0,1,1,1,1,1,0,0,0
+simms,burns,fast,0,1,1,1,2,1,0,0,0
+simms,burns,fast,0,1,1,1,2,1,0,0,0
+simms,burns,rak,0,1,1,0,0,2,1,0,1
+simms,burns,rak,1,1,1,0,1,2,0,0,0
+simms,burns,rak,0,0,0,0,2,2,1,0,1
+simms,burns,rak,0,0,0,1,2,2,0,0,0
+simms,burns,rak,0,0,0,2,2,2,0,0,0
+simms,burns,rak,0,0,0,3,2,2,0,0,0
+simms,burns,plant,0,0,0,0,0,2,1,1,1
+simms,burns,plant,1,1,0,1,0,2,0,0,0
+simms,burns,plant,0,1,0,1,1,2,0,0,0
+simms,burns,plant,0,0,0,1,2,2,0,0,0
+simms,burns,plant,0,1,1,2,2,2,0,0,0
+simon,jakin,aryo,1,1,0,0,0,2,0,0,0
+simon,jakin,aryo,0,1,1,0,1,2,0,0,0
+simon,jakin,aryo,1,1,0,0,2,2,0,0,0
+simms,burns,simon,0,0,0,0,0,0,0,0,0
+simms,burns,simon,0,1,0,1,0,0,0,0,0
+simms,burns,simon,0,1,1,1,1,0,0,0,0
+simms,burns,simon,0,0,0,1,2,0,0,0,0
+simms,burns,simon,0,1,0,2,2,0,0,0,0
+simms,burns,fast,0,0,0,0,0,1,0,0,0
+simms,burns,fast,1,1,1,1,0,1,0,0,0
+simms,burns,fast,0,0,0,1,1,1,0,0,0
+simms,burns,fast,0,1,1,2,1,1,0,0,0
+simms,burns,fast,1,1,1,2,2,1,0,0,0
+simon,jakin,rak,0,1,1,0,0,0,0,0,0
+simon,jakin,rak,1,0,0,0,1,0,0,0,0
+simon,jakin,rak,0,1,1,1,1,0,0,0,0
+simon,jakin,rak,1,0,0,1,2,0,0,0,0
+simon,jakin,rak,0,0,0,2,2,0,0,0,0
+simon,jakin,rak,0,0,0,3,2,0,0,0,0
+simms,eddie,plant,1,0,0,0,0,0,0,0,0
+simms,eddie,plant,0,0,0,1,0,0,0,0,0
+simms,eddie,parker,0,0,0,0,0,0,1,0,0
+simms,eddie,parker,0,0,0,1,0,0,0,0,0
+simms,eddie,dame,1,1,0,1,1,0,0,0,0
+simms,eddie,dame,0,0,0,1,1,2,0,0,0
+simms,eddie,dame,0,0,0,2,1,2,0,0,0
+simms,eddie,dame,0,1,1,2,2,2,0,0,0
+simms,eddie,aryo,0,0,0,0,0,2,1,0,0
+simms,eddie,aryo,0,0,0,1,0,2,1,0,0
+simms,eddie,aryo,0,1,1,2,0,2,1,0,0
+simms,eddie,aryo,1,0,1,2,1,2,1,0,0
+simms,eddie,aryo,0,1,1,2,2,2,0,0,0
+simms,eddie,aryo,1,0,1,2,2,2,0,0,0
+simon,linder,simms,0,1,0,0,0,0,0,0,0
+simon,linder,simms,0,1,1,0,1,0,0,0,0
+simon,linder,simms,0,0,0,0,2,0,0,0,0
+simon,linder,simms,0,1,1,1,2,0,0,0,0
+simon,linder,simms,1,0,0,1,2,0,0,0,0
+simon,linder,simms,0,0,0,2,2,0,0,0,0
+simon,linder,simms,0,0,0,3,2,0,0,0,0
+simon,linder,fast,0,1,1,0,0,0,1,0,0
+simon,linder,rak,0,1,1,0,0,2,0,0,0
+simon,linder,rak,1,0,0,0,1,2,0,0,0
+simon,linder,rak,0,1,0,1,1,2,0,0,0
+simon,linder,rak,0,0,0,1,2,2,0,0,0
+simon,linder,rak,0,0,0,2,2,2,0,0,0
+simon,linder,rak,0,0,0,3,2,2,0,0,0
+simon,linder,plant,1,0,0,0,0,2,1,0,0
+simon,linder,plant,0,0,0,1,0,2,0,0,0
+simms,eddie,parker,1,1,0,0,0,0,0,0,0
+simms,eddie,parker,0,1,1,0,1,0,0,0,0
+simms,eddie,parker,1,0,0,0,2,0,0,0,0
+simms,eddie,parker,1,0,0,1,2,0,0,0,0
+simms,eddie,parker,0,0,0,2,2,0,0,0,0
+simms,eddie,parker,0,0,1,2,2,0,0,0,0
+simms,eddie,parker,1,1,1,2,2,0,0,0,0
+simms,eddie,dame,0,0,0,0,0,1,0,0,0
+simms,eddie,dame,1,1,0,1,0,1,0,0,0
+simms,eddie,dame,1,0,0,1,1,1,0,0,0
+simms,eddie,dame,0,0,0,2,1,1,0,0,0
+simms,eddie,dame,0,1,1,3,1,1,0,0,0
+simms,eddie,dame,1,0,0,3,2,1,0,0,0
+simms,eddie,aryo,0,0,0,0,0,1,1,0,0
+simms,eddie,aryo,0,0,1,1,0,1,1,0,0
+simms,eddie,aryo,0,0,1,1,1,1,1,0,0
+simms,eddie,aryo,0,0,1,1,2,1,1,0,0
+simms,eddie,simon,1,0,0,0,0,2,1,0,0
+simms,eddie,simon,0,1,1,1,0,2,0,1,0
+simms,eddie,simon,0,1,1,1,1,2,0,1,0
+simms,eddie,simon,1,0,1,1,2,2,0,1,0
+simon,linder,fast,0,0,0,0,0,0,0,0,0
+simon,linder,fast,0,1,1,1,0,0,0,0,0
+simon,linder,fast,0,0,0,1,1,0,0,0,0
+simon,linder,fast,0,0,0,2,1,0,0,0,0
+simon,linder,fast,0,0,0,3,1,0,0,0,0
+simon,linder,burns,0,0,0,0,0,0,1,0,0
+simon,linder,burns,0,0,0,1,0,0,1,0,0
+simon,linder,burns,0,0,0,2,0,0,1,0,0
+simon,linder,burns,0,1,0,3,0,0,0,1,0
+simon,linder,burns,0,1,0,3,1,0,0,1,0
+simon,linder,burns,0,0,0,3,2,0,0,1,0
+simon,linder,rak,0,1,1,0,0,0,1,1,0
+simon,linder,plant,0,0,0,0,0,2,0,0,0
+simon,linder,plant,0,0,0,1,0,2,0,0,1
+simon,linder,plant,0,1,1,2,2,2,0,0,0
+simms,eddie,parker,0,1,1,0,0,0,0,0,0
+simms,eddie,dame,0,0,0,0,0,0,1,0,0
+simms,eddie,dame,1,0,0,1,0,0,1,0,0
+simms,eddie,dame,0,0,0,2,0,0,1,0,0
+simms,eddie,dame,0,1,0,3,0,0,0,1,0
+simms,eddie,dame,0,0,0,3,1,0,0,1,0
+simms,eddie,dame,0,0,0,0,0,0,0,0,0
+parker,darius,t. burton,0,0,0,0,0,0,0,0,0
+parker,darius,t. burton,0,0,0,1,0,0,0,0,0
+parker,darius,t. burton,0,1,1,2,0,0,0,0,0
+parker,darius,t. burton,1,0,0,2,1,0,0,0,0
+parker,darius,t. burton,0,1,1,3,1,0,0,0,0
+parker,darius,dom,1,0,0,0,0,1,0,0,0
+parker,darius,dom,0,0,0,1,0,1,0,0,0
+parker,darius,dom,0,0,0,2,0,1,0,0,0
+parker,darius,dom,1,1,1,2,1,1,0,0,0
+parker,darius,dom,0,1,1,3,1,1,0,0,0
+parker,darius,horn,1,1,0,0,0,2,0,0,0
+parker,darius,horn,0,0,0,0,1,2,0,0,0
+parker,darius,horn,0,1,1,1,1,2,0,0,0
+parker,darius,horn,1,0,0,1,2,2,0,0,0
+parker,darius,horn,0,0,0,2,2,2,0,0,0
+parker,darius,horn,0,0,0,3,2,2,0,0,0
+parker,darius,dex,1,0,0,0,0,2,1,0,0
+parker,darius,dex,0,1,1,1,0,2,1,0,0
+parker,darius,dex,0,1,1,1,1,2,1,0,0
+parker,darius,dex,1,0,0,1,2,2,1,0,0
+parker,darius,dex,0,1,0,2,2,2,1,0,0
+dame,patrick,b. burton,0,1,1,0,0,0,0,0,0
+dame,patrick,b. burton,1,0,0,0,1,0,0,0,0
+dame,patrick,b. burton,0,0,0,1,1,0,0,0,0
+dame,patrick,b. burton,0,0,0,2,1,0,0,0,0
+dame,patrick,b. burton,0,1,1,3,1,0,0,0,0
+dame,patrick,b. burton,0,0,0,3,2,0,0,0,0
+dame,patrick,jax,0,1,1,0,0,0,1,0,0
+dame,patrick,parker,0,0,0,0,0,2,0,0,0
+dame,patrick,parker,0,1,1,1,0,2,0,0,0
+parker,darius,t. burton,0,1,0,0,0,0,0,0,0
+parker,darius,t. burton,1,0,0,0,1,0,0,0,0
+parker,darius,t. burton,1,0,0,1,1,0,0,0,0
+parker,darius,t. burton,0,0,0,2,1,0,0,0,0
+parker,darius,t. burton,0,0,0,3,1,0,0,0,0
+parker,darius,dom,0,1,1,0,0,0,1,0,0
+parker,darius,dom,1,0,0,0,1,0,1,0,0
+parker,darius,dom,0,1,1,1,1,0,1,0,0
+parker,darius,dom,0,1,1,1,2,0,1,0,0
+parker,darius,horn,0,1,1,0,0,0,1,1,0
+parker,darius,horn,0,1,0,0,1,0,0,0,0
+parker,darius,horn,0,0,0,0,2,0,0,0,0
+parker,darius,horn,0,1,1,1,2,0,0,0,0
+parker,darius,dex,0,1,0,0,0,1,0,1,1
+parker,darius,dex,1,0,0,0,1,1,0,1,1
+parker,darius,dex,1,0,0,1,1,1,0,1,1
+parker,darius,dex,0,1,1,2,1,1,0,1,1
+parker,darius,dex,0,1,1,2,2,1,0,1,1
+parker,darius,dex,0,0,1,2,2,0,0,0,0
+parker,darius,b. burton,0,1,1,0,0,2,0,0,1
+dame,patrick,jax,1,0,0,1,0,0,0,0,0
+dame,patrick,jax,0,0,1,1,1,0,0,0,0
+dame,patrick,jax,0,1,1,0,0,0,0,0,0
+dame,patrick,parker,0,0,0,0,0,0,0,1,0
+dame,patrick,parker,0,1,1,1,0,0,0,1,0
+dame,patrick,parker,0,1,0,1,1,0,0,1,0
+dame,patrick,parker,1,1,1,1,2,0,0,1,0
+dame,patrick,t. burton,0,0,0,0,0,1,0,1,0
+dame,patrick,t. burton,0,1,0,1,0,1,0,0,1
+dame,patrick,t. burton,0,0,0,1,1,1,0,0,1
+dame,patrick,t. burton,1,0,0,2,1,1,0,0,1
+dame,patrick,t. burton,0,1,1,3,1,1,0,0,1
+dame,patrick,t. burton,0,1,1,3,2,1,0,0,1
+dame,patrick,dom,0,1,0,0,0,2,0,0,1
+dame,patrick,dom,1,1,1,0,1,2,0,0,1
+dame,patrick,dom,1,0,0,0,2,2,0,0,1
+dame,patrick,dom,1,0,0,1,2,2,0,0,1
+dame,patrick,dom,0,1,1,2,2,2,0,0,1
+parker,darius,horn,1,1,0,0,0,0,0,0,0
+parker,darius,horn,0,0,0,0,1,0,0,0,0
+parker,darius,horn,1,0,0,1,1,0,0,0,0
+parker,darius,horn,0,0,0,2,1,0,0,0,0
+parker,darius,horn,0,1,1,3,1,0,0,0,0
+parker,darius,dex,0,1,1,0,0,0,1,0,0
+parker,darius,b. burton,1,0,0,0,0,0,1,1,0
+parker,darius,b. burton,0,1,1,1,0,1,0,0,0
+parker,darius,jax,1,0,1,0,0,1,0,0,0
+parker,darius,jax,1,0,0,1,0,1,0,0,0
+parker,darius,jax,1,0,0,2,0,1,0,0,0
+parker,darius,jax,0,1,1,2,1,1,0,0,0
+parker,darius,jax,1,1,1,2,2,1,0,0,0
+parker,darius,jax,1,1,1,2,2,1,0,0,0
+parker,darius,jax,0,1,1,2,2,1,0,0,0
+parker,darius,jax,0,0,0,2,2,1,0,0,0
+parker,darius,jax,0,0,0,3,2,1,0,0,0
+parker,darius,dame,0,0,0,0,0,1,1,1,1
+parker,darius,dame,0,0,1,1,0,1,1,1,1
+parker,darius,dame,1,0,1,1,1,1,1,1,1
+parker,darius,dame,1,0,0,1,2,1,1,1,1
+parker,darius,dame,0,0,0,2,2,1,1,1,1
+parker,darius,dame,0,0,0,3,2,1,1,1,1
+dame,darius,t. burton,0,1,1,0,0,0,0,0,0
+dame,darius,dom,1,0,0,0,0,0,1,0,0
+dame,darius,dom,0,0,0,1,0,0,1,0,0
+dame,darius,dom,0,0,0,2,0,0,1,0,0
+dame,darius,dom,0,0,1,3,0,0,1,0,0
+dame,darius,dom,0,1,1,3,1,0,0,0,0
+dame,darius,horn,0,0,0,0,0,0,0,0,0
+dame,darius,horn,1,0,0,1,0,0,0,0,0
+dame,darius,horn,0,0,0,2,0,0,0,0,0
+dame,darius,horn,0,0,0,3,0,0,0,0,0
+dame,darius,dex,0,1,1,0,0,0,1,0,0
+dame,darius,dex,0,1,1,0,1,0,1,0,0
+dame,darius,dex,0,1,1,0,2,0,0,0,0
+parker,peter,b. burton,0,0,0,0,0,0,0,0,0
+parker,peter,b. burton,0,1,1,1,0,0,0,0,0
+parker,peter,b. burton,1,1,1,1,1,0,0,0,0
+parker,peter,jax,0,0,0,0,0,0,1,0,0
+parker,peter,jax,0,0,0,1,0,0,0,0,0
+parker,peter,jax,0,0,0,2,0,0,0,0,0
+parker,peter,jax,0,0,0,3,0,0,0,0,0
+parker,peter,dame,0,0,0,0,0,0,1,1,0
+parker,peter,dame,0,1,1,1,0,0,0,0,0
+parker,peter,dame,1,1,0,1,1,0,0,0,0
+parker,peter,dame,1,0,1,1,2,0,0,0,0
+parker,peter,dame,1,1,1,1,2,0,0,0,0
+parker,peter,t. burton,1,0,0,0,0,1,0,1,1
+parker,peter,t. burton,1,0,0,1,0,1,0,0,0
+parker,peter,t. burton,0,0,0,2,0,1,0,0,0
+parker,peter,t. burton,0,1,1,3,0,1,0,0,0
+parker,peter,t. burton,0,1,1,3,1,1,0,0,0
+parker,peter,dom,1,1,1,0,0,2,0,1,1
+parker,peter,horn,0,0,0,0,0,2,1,0,0
+parker,peter,horn,1,1,1,1,0,2,0,0,0
+dame,fast,dex,0,0,0,0,0,0,0,0,0
+dame,fast,dex,0,0,1,1,0,0,0,0,0
+dame,fast,dex,1,0,1,1,1,0,0,0,0
+dame,fast,dex,1,1,1,1,2,0,0,0,0
+dame,fast,dex,0,0,1,1,2,0,0,0,0
+dame,fast,b. burton,0,0,0,0,0,1,0,0,0
+dame,fast,b. burton,0,1,1,1,0,0,0,0,0
+dame,fast,jax,0,1,1,0,0,2,0,0,0
+dame,fast,jax,1,1,1,0,1,0,0,0,0
+dame,fast,parker,0,1,1,0,0,2,1,0,0
+dame,fast,t. burton,0,1,0,0,0,2,1,0,1
+dame,fast,t. burton,0,0,0,0,1,0,0,0,0
+dame,fast,t. burton,1,1,0,1,1,2,0,0,0
+dame,fast,t. burton,0,0,0,1,2,2,0,0,0
+dame,fast,t. burton,0,1,0,1,2,2,1,0,1
+parker,peter,dom,0,0,0,0,0,0,0,0,0
+parker,peter,dom,0,1,1,1,0,0,0,0,0
+parker,peter,horn,1,0,0,0,0,1,0,0,0
+parker,peter,horn,1,0,0,1,0,1,0,0,0
+parker,peter,horn,0,0,0,2,0,1,0,0,0
+parker,peter,horn,0,0,0,3,0,1,0,0,0
+parker,peter,dex,1,1,0,0,0,1,1,0,0
+parker,peter,dex,1,0,0,0,1,1,0,0,0
+parker,peter,dex,0,0,0,1,1,1,0,0,0
+parker,peter,dex,1,0,0,2,1,1,0,0,0
+parker,peter,dex,0,0,0,3,1,1,0,0,0
+parker,peter,b. burton,0,1,1,0,0,1,1,1,0
+parker,peter,jax,1,0,0,0,0,2,1,1,0
+parker,peter,jax,0,1,0,1,0,2,0,0,0
+parker,peter,jax,0,0,0,1,1,2,0,0,0
+parker,peter,jax,0,0,0,2,1,2,0,0,0
+parker,peter,jax,1,0,0,3,1,2,0,0,0
+parker,peter,dame,0,1,1,0,0,2,1,1,1
+parker,peter,dame,0,0,0,0,1,2,0,0,0
+parker,peter,dame,1,0,1,1,1,2,0,0,0
+parker,peter,dame,1,0,0,1,2,2,0,0,0
+parker,peter,dame,0,0,0,1,2,2,0,0,0
+parker,peter,dame,1,0,0,2,2,2,0,0,0
+parker,peter,dame,0,0,0,3,2,2,0,0,0
+dame,fast,t. burton,0,1,0,0,0,0,0,0,0
+dame,fast,t. burton,1,0,0,0,1,0,0,0,0
+dame,fast,t. burton,1,0,1,1,1,0,0,0,0
+dame,fast,t. burton,0,0,0,1,2,0,0,0,0
+dame,fast,t. burton,0,1,1,2,2,0,0,0,0
+dame,fast,dom,0,0,0,0,0,0,1,0,0
+dame,fast,dom,1,0,1,1,0,0,0,1,0
+dame,fast,dom,0,0,0,1,1,0,0,0,0
+dame,fast,dom,0,1,1,2,1,0,0,0,0
+dame,fast,dom,1,0,0,2,2,0,0,0,0
+dame,fast,dom,0,1,1,3,2,0,0,0,0
+dame,fast,dom,0,0,1,3,2,0,0,0,0
+dame,fast,horn,0,1,1,0,0,1,0,0,1
+dame,fast,dex,0,0,1,0,1,2,0,0,0
+dame,fast,dex,1,0,0,1,1,2,0,0,0
+dame,fast,dex,0,1,1,1,2,2,0,0,0
+dame,fast,dex,0,0,0,2,2,2,0,0,0
+dame,fast,dex,0,1,1,2,2,2,0,0,0
+dame,fast,dex,0,1,1,2,2,2,0,0,0
+dame,fast,dex,1,0,0,2,2,2,0,0,0
+dame,fast,dex,0,1,1,3,2,2,0,0,0
+dame,fast,dex,0,0,0,3,2,2,0,0,0
+dame,fast,b. burton,0,0,0,0,0,2,1,0,1
+dame,fast,b. burton,0,0,1,1,0,2,0,0,0
+dame,fast,b. burton,0,0,0,1,1,2,0,0,0
+parker,quan,jax,0,1,1,0,0,0,0,0,0
+parker,quan,t. burton,1,0,0,0,0,1,0,0,0
+parker,quan,t. burton,0,1,0,1,0,1,0,0,0
+parker,quan,t. burton,1,1,0,1,1,1,0,0,0
+parker,quan,t. burton,1,1,0,1,2,1,0,0,0
+parker,quan,dame,0,0,0,0,0,2,0,0,0
+parker,quan,dame,0,0,1,1,0,2,0,0,0
+parker,quan,dame,1,1,1,1,1,2,0,0,0
+parker,quan,dom,1,1,1,0,0,0,0,0,0
+parker,quan,horn,0,1,1,0,0,1,0,0,0
+parker,quan,dex,0,0,0,0,0,2,0,0,0
+parker,quan,dex,1,1,1,1,0,2,0,0,0
+parker,quan,dex,1,0,0,1,1,2,0,0,0
+parker,quan,dex,0,0,1,2,1,2,0,0,0
+parker,quan,dex,1,0,1,2,2,2,0,0,0
+parker,quan,b. burton,0,1,1,0,0,0,0,0,0
+dame,quan,jax,0,1,1,0,0,1,0,0,0
+dame,quan,parker,1,0,1,0,0,1,1,0,0
+dame,quan,parker,0,1,1,0,1,1,0,0,0
+dame,quan,parker,0,1,1,0,2,1,0,0,0
+dame,quan,t. burton,1,0,0,0,0,1,1,1,0
+dame,quan,t. burton,0,1,1,0,0,1,0,1,1
+dame,quan,dom,1,0,0,1,0,1,1,0,0
+dame,quan,dom,1,0,0,2,0,1,0,0,0
+dame,quan,dom,0,1,0,2,1,1,0,0,0
+dame,quan,dom,0,0,0,3,1,1,0,0,0
+dame,quan,dom,0,1,1,3,2,1,0,0,0
+dame,quan,dom,0,0,0,3,2,1,0,0,0
+dame,quan,horn,0,1,1,3,2,1,1,1,0
+dame,quan,dex,0,1,1,0,0,0,0,0,0
+dame,quan,dex,0,1,1,0,1,0,0,0,0
+dame,quan,dex,1,1,1,0,2,0,0,0,0
+dame,quan,b. burton,0,1,1,0,0,1,0,0,0
+dame,quan,b. burton,0,0,0,0,1,1,0,0,0
+dame,quan,b. burton,1,1,1,1,1,1,0,0,0
+dame,quan,b. burton,1,0,1,1,2,1,0,0,0
+dame,quan,jax,0,0,0,0,0,2,0,0,0
+dame,quan,jax,1,0,0,1,0,2,0,0,0
+dame,quan,jax,0,0,1,2,0,2,0,0,0
+dame,quan,jax,1,1,1,2,1,2,0,0,0
+dame,jack m,parker,0,1,0,0,0,0,0,0,0
+dame,jack m,parker,0,1,1,0,1,0,0,0,0
+dame,jack m,t. burton,0,0,0,0,0,1,0,0,0
+dame,jack m,t. burton,0,1,1,1,0,1,0,0,0
+dame,jack m,t. burton,1,1,1,1,1,1,0,0,0
+dame,jack m,t. burton,1,1,1,1,2,1,0,0,0
+dame,jack m,riecker,0,1,1,0,0,1,1,0,0
+dame,jack m,riecker,0,0,0,0,1,1,1,0,0
+dame,jack m,riecker,0,1,1,1,1,1,1,0,0
+jai,darius,deagle,0,0,0,0,0,0,0,0,0
+jai,darius,deagle,1,0,0,1,0,0,0,0,0
+jai,darius,deagle,0,1,1,2,0,0,0,0,0
+jai,darius,deagle,1,1,1,2,1,0,0,0,0
+jai,darius,b. burton,0,1,1,0,0,1,0,0,0
+jai,darius,b. burton,1,0,0,0,1,1,0,0,0
+jai,darius,b. burton,0,0,0,1,1,1,0,0,0
+jai,darius,b. burton,1,1,0,2,1,1,0,0,0
+jai,darius,b. burton,1,1,1,2,2,1,0,0,0
+jai,darius,dame,0,1,1,0,0,1,1,0,0
+jai,darius,dame,0,1,0,0,1,1,1,0,0
+jai,darius,dame,0,0,0,0,2,1,1,0,0
+jai,darius,dame,0,1,1,1,2,1,1,0,0
+jai,darius,dame,1,0,0,1,2,1,1,0,0
+jai,darius,dame,0,1,1,2,1,1,1,0,0
+jai,darius,parker,0,1,1,0,0,2,1,0,0
+dame,jack m,t. burton,1,0,0,0,0,0,0,0,0
+dame,jack m,t. burton,0,0,0,1,0,0,0,0,0
+dame,jack m,t. burton,1,0,0,2,0,0,0,0,0
+dame,jack m,t. burton,0,1,1,3,0,0,0,0,0
+dame,jack m,t. burton,0,1,0,3,1,0,0,0,0
+dame,jack m,t. burton,0,1,0,3,2,0,0,0,0
+dame,jack m,riecker,0,1,1,0,0,1,1,0,0
+dame,jack m,jai,0,0,0,0,0,2,0,0,0
+dame,jack m,jai,0,1,1,1,0,2,0,0,0
+dame,jack m,jai,1,0,0,1,1,2,0,0,0
+dame,jack m,jai,1,0,0,2,1,2,0,0,0
+dame,jack m,jai,0,1,1,3,1,2,0,0,0
+dame,jack m,jai,0,1,1,3,2,2,0,0,0
+dame,jack m,jai,0,0,0,3,2,2,0,0,0
+dame,jack m,deagle,1,0,0,0,0,2,1,0,0
+dame,jack m,deagle,0,1,0,1,0,2,0,0,0
+dame,jack m,deagle,1,0,0,1,1,2,0,1,0
+dame,jack m,deagle,0,1,0,2,1,2,0,0,0
+dame,jack m,deagle,0,1,1,2,2,2,0,0,0
+dame,jack m,deagle,0,0,0,2,2,2,0,0,0
+dame,jack m,deagle,1,1,1,3,2,2,0,0,0
+jai,darius,b. burton,0,1,1,0,0,0,0,0,0
+jai,darius,dame,0,1,1,0,0,1,0,0,0
+jai,darius,dame,0,1,0,0,1,1,0,0,0
+jai,darius,dame,0,1,0,1,2,1,0,0,0
+jai,darius,parker,1,1,1,0,0,2,0,0,0
+dame,jack m,t. burton,0,1,0,0,0,0,0,0,0
+dame,jack m,t. burton,0,1,1,0,1,0,0,0,0
+dame,jack m,riecker,0,1,0,0,0,1,0,0,0
+dame,jack m,riecker,0,0,0,0,1,1,0,0,0
+dame,jack m,riecker,1,0,0,1,1,1,0,0,0
+dame,jack m,riecker,1,1,0,2,1,1,0,0,0
+dame,jack m,riecker,0,0,0,2,2,1,0,0,0
+dame,jack m,riecker,0,0,0,3,2,1,0,0,0
+dame,jack m,jai,0,1,1,0,0,1,1,0,0
+dame,jack m,deagle,0,0,0,0,0,1,1,1,0
+dame,jack m,deagle,1,0,0,1,0,1,1,1,0
+dame,jack m,deagle,0,1,0,2,0,1,1,1,0
+dame,jack m,deagle,0,1,1,2,1,1,1,1,0
+dame,jack m,deagle,0,1,1,2,2,1,1,1,0
+dame,jack m,deagle,1,0,1,2,2,1,1,1,0
+dame,jack m,b. burton,0,0,0,0,0,2,1,1,0
+dame,jack m,b. burton,0,1,1,1,0,2,0,0,0
+jai,darius,dame,0,0,0,0,0,0,0,0,0
+jai,darius,dame,1,0,0,1,0,0,0,0,0
+jai,darius,dame,0,0,0,2,0,0,0,0,0
+jai,darius,dame,0,0,0,3,0,0,0,0,0
+jai,darius,parker,1,1,1,0,0,0,1,0,0
+jai,darius,parker,0,0,0,0,1,0,0,0,0
+jai,darius,parker,1,1,0,1,1,0,0,0,0
+jai,darius,parker,1,1,1,1,2,0,0,0,0
+jai,darius,parker,1,0,0,1,2,0,0,0,0
+jai,darius,parker,0,1,1,2,2,0,0,0,0
+jai,darius,parker,0,0,1,2,2,0,0,0,0
+jai,darius,t. burton,1,0,1,0,0,1,1,0,0
+jai,darius,t. burton,0,1,0,0,1,1,0,0,0
+jai,darius,t. burton,0,0,0,0,2,1,0,0,0
+jai,darius,t. burton,0,1,1,1,2,1,0,0,0
+jai,darius,riecker,0,1,0,0,0,1,1,0,1
+jai,darius,riecker,0,0,0,0,1,1,0,0,0
+jai,darius,riecker,1,1,1,1,1,1,0,1,0
+jai,darius,deagle,0,0,0,0,0,2,0,0,0
+jai,darius,deagle,1,1,0,1,0,2,0,0,0
+jai,darius,deagle,1,1,1,0,0,2,0,0,0
+jai,darius,b. burton,0,1,1,0,0,2,0,0,0
+dame,kozak,parker,1,0,0,0,0,0,0,0,0
+dame,kozak,parker,0,1,1,1,0,0,0,0,0
+dame,kozak,t. burton,1,0,0,0,0,1,0,0,0
+dame,kozak,t. burton,1,0,0,1,0,1,0,0,0
+dame,kozak,t. burton,0,1,1,1,1,1,0,0,0
+dame,kozak,riecker,1,0,0,0,0,1,1,0,0
+dame,kozak,riecker,0,1,0,1,0,1,0,0,0
+dame,kozak,riecker,1,0,0,1,1,1,0,0,0
+dame,kozak,riecker,0,1,0,2,1,1,0,0,0
+dame,kozak,riecker,1,1,1,2,2,1,0,0,0
+dame,kozak,jai,0,0,0,0,0,2,0,0,0
+dame,kozak,jai,1,0,0,1,0,2,0,0,0
+dame,kozak,jai,0,1,1,2,0,2,0,0,0
+jai,darius,deagle,0,1,1,0,0,0,0,0,0
+jai,darius,deagle,1,0,0,0,1,0,0,0,0
+jai,darius,deagle,1,0,0,1,1,0,0,0,0
+jai,darius,deagle,0,0,0,2,1,0,0,0,0
+jai,darius,deagle,0,1,0,3,1,0,0,0,0
+jai,darius,deagle,0,1,1,3,2,0,0,0,0
+jai,darius,b. burton,0,0,0,0,0,1,0,0,0
+jai,darius,b. burton,1,0,0,1,0,1,0,0,0
+jai,darius,b. burton,0,0,0,2,0,1,0,0,0
+jai,darius,b. burton,0,0,0,3,0,1,0,0,0
+jai,darius,dame,1,0,0,0,0,1,1,0,0
+jai,darius,dame,1,1,0,1,0,1,0,0,0
+jai,darius,dame,0,1,1,1,1,1,0,0,0
+jai,darius,dame,1,1,1,1,2,1,0,0,0
+jai,darius,parker,0,0,0,0,0,2,0,0,0
+jai,darius,parker,1,1,1,1,0,2,0,0,0
+jai,darius,t. burton,0,0,1,0,0,2,0,1,0
+jai,darius,t. burton,0,0,0,0,1,2,0,1,0
+jai,darius,t. burton,0,1,1,1,1,2,0,0,1
+jai,darius,t. burton,0,0,0,1,2,2,0,0,0
+jai,darius,t. burton,0,0,0,2,2,2,0,0,0
+jai,darius,t. burton,1,1,1,3,2,2,0,0,0
+jai,darius,t. burton,0,1,1,3,2,2,0,0,0
+dame,kozak,jax,1,0,0,0,0,0,0,0,0
+dame,kozak,jax,0,1,1,1,0,0,0,0,0
+dame,kozak,cox,1,1,0,0,0,1,0,0,0
+dame,kozak,cox,1,1,0,0,1,1,0,0,0
+dame,kozak,cox,0,0,0,0,2,1,0,0,0
+dame,kozak,cox,1,0,0,1,2,1,0,0,0
+dame,kozak,cox,0,1,1,2,2,1,0,0,0
+dame,kozak,jack m,1,0,0,0,0,2,0,0,0
+dame,kozak,jack m,0,1,1,1,0,2,0,0,0
+dame,kozak,jack m,1,1,0,1,1,2,0,0,0
+dame,kozak,jack m,0,0,0,1,2,2,0,0,0
+dame,kozak,jack m,1,1,1,2,2,2,0,0,0
+jai,patrick,simon,0,1,0,0,0,0,0,0,0
+jai,patrick,simon,0,1,1,0,1,0,0,0,0
+jai,patrick,simon,0,0,0,0,2,0,0,0,0
+jai,patrick,simon,0,0,0,1,2,0,0,0,0
+jai,patrick,simon,1,0,0,2,2,0,0,0,0
+jai,patrick,simon,0,0,0,3,2,0,0,0,0
+jai,patrick,jax,1,0,0,0,0,0,1,0,0
+jai,patrick,jax,0,1,1,1,0,0,0,0,0
+jai,patrick,cox,0,0,0,0,0,2,0,0,0
+jai,patrick,cox,1,0,0,1,0,2,0,0,0
+jai,patrick,cox,0,1,1,2,0,2,0,0,0
+jai,patrick,cox,0,0,0,2,1,2,0,0,0
+jai,patrick,cox,0,1,1,3,1,2,0,0,0
+jai,patrick,cox,0,0,1,3,2,2,0,0,0
+dame,kozak,jack m,1,0,0,0,0,0,0,0,0
+dame,kozak,jack m,1,0,1,1,0,0,0,0,0
+dame,kozak,jack m,0,1,0,1,1,0,0,0,0
+dame,kozak,jack m,1,0,1,1,2,0,0,0,0
+dame,kozak,simon,1,0,0,0,0,1,0,0,0
+dame,kozak,simon,0,1,0,1,0,1,0,0,0
+dame,kozak,simon,1,0,0,1,1,1,0,0,0
+dame,kozak,simon,0,1,1,2,1,1,0,0,0
+dame,kozak,simon,0,1,1,2,2,1,0,0,0
+dame,kozak,jai,1,1,1,0,0,2,0,0,0
+dame,kozak,jai,1,0,0,0,1,2,0,0,0
+dame,kozak,jai,0,1,1,1,1,2,0,0,0
+dame,kozak,jai,1,0,0,1,2,2,0,0,0
+dame,kozak,jai,0,1,1,2,2,2,0,0,0
+dame,kozak,jax,0,0,0,0,0,2,1,0,0
+dame,kozak,jax,0,1,1,1,0,2,0,0,0
+dame,kozak,jax,1,0,1,1,1,2,0,0,0
+dame,kozak,jax,0,0,0,1,2,2,0,0,0
+dame,kozak,jax,1,1,0,2,2,2,0,0,0
+jai,patrick,cox,0,1,1,0,0,0,0,0,0
+jai,patrick,dame,1,0,0,0,0,1,0,0,0
+jai,patrick,dame,0,1,1,1,0,1,0,0,0
+jai,patrick,jack m,0,0,0,0,0,2,0,0,0
+jai,patrick,jack m,0,0,0,1,0,2,0,0,0
+jai,patrick,jack m,0,0,0,2,0,2,0,0,0
+jai,patrick,jack m,0,0,0,3,0,2,0,0,0
+jai,patrick,jack m,0,1,1,3,1,2,0,0,0
+jai,patrick,jack m,0,1,0,3,2,2,0,0,0
+dame,kozak,simon,0,1,1,0,0,0,0,0,0
+dame,kozak,simon,1,0,0,0,1,0,0,0,0
+dame,kozak,simon,0,0,0,1,1,0,0,0,0
+dame,kozak,simon,0,1,1,2,1,0,0,0,0
+dame,kozak,simon,0,1,1,2,2,0,0,0,0
+dame,kozak,jai,0,1,1,0,0,1,0,0,0
+dame,kozak,jax,1,1,1,0,0,2,0,0,0
+dame,kozak,jax,0,1,1,0,1,2,0,0,0
+dame,kozak,jax,1,0,0,0,2,2,0,0,0
+dame,kozak,jax,0,0,0,1,2,2,0,0,0
+dame,kozak,jax,1,0,0,2,2,2,0,0,0
+dame,kozak,jax,0,0,0,3,2,2,0,0,0
+dame,kozak,cox,0,0,0,0,0,2,1,0,0
+dame,kozak,cox,0,0,0,1,0,2,0,1,0
+dame,kozak,cox,1,1,0,2,0,2,0,0,0
+dame,kozak,cox,0,1,0,2,1,2,0,0,0
+dame,kozak,cox,0,1,0,2,2,2,0,0,0
+jai,patrick,dame,0,0,0,0,0,0,0,0,0
+jai,patrick,dame,1,0,0,1,0,0,0,0,0
+jai,patrick,dame,0,1,0,2,0,0,0,0,0
+jai,patrick,dame,0,0,0,2,1,0,0,0,0
+jai,patrick,dame,0,0,1,3,1,0,0,0,0
+jai,patrick,dame,1,0,0,3,2,0,0,0,0
+jai,patrick,jack m,0,0,0,0,0,0,1,0,0
+jai,patrick,jack m,0,0,0,1,0,0,0,0,0
+jai,patrick,jack m,0,0,0,1,1,0,0,0,0
+jai,patrick,jack m,0,0,0,2,1,0,0,1,0
+jai,patrick,jack m,0,1,1,3,1,0,0,0,0
+jai,patrick,simon,0,0,0,0,0,1,0,0,0
+jai,patrick,simon,0,0,0,1,0,1,0,0,0
+jai,patrick,simon,0,0,0,2,0,1,0,0,0
+jai,patrick,simon,0,1,1,2,1,1,0,0,0
+jai,patrick,simon,0,1,1,2,2,1,0,0,0
+jai,patrick,simon,0,1,1,2,2,1,0,0,0
+jai,patrick,jax,0,0,0,0,0,2,0,0,0
+jai,patrick,jax,0,1,1,1,0,2,0,0,0
+jai,patrick,jax,0,1,1,1,1,2,0,0,0
+jai,patrick,jax,1,1,1,1,2,2,0,0,0
+simon,fast,cox,0,0,0,0,0,0,0,0,0
+simon,fast,cox,0,1,1,1,0,0,0,0,0
+simon,fast,dame,1,1,0,0,0,1,0,0,0
+simon,fast,dame,0,0,0,0,1,1,0,0,0
+simon,fast,dame,0,1,1,1,1,1,0,0,0
+simon,fast,jack m,0,1,0,0,0,2,0,0,0
+simon,fast,jack m,0,1,1,0,1,2,0,0,0
+simon,fast,jack m,1,0,0,0,2,2,0,0,0
+simon,fast,jack m,0,1,1,1,2,2,0,0,0
+simon,fast,jack m,1,0,0,1,2,2,0,0,0
+simon,fast,jack m,1,0,0,2,2,2,0,0,0
+simon,fast,jack m,0,1,1,3,2,2,0,0,0
+jai,patrick,simon,0,0,0,0,0,0,0,0,0
+jai,patrick,simon,0,1,1,0,1,0,0,0,0
+jai,patrick,simon,0,1,1,0,2,0,0,0,0
+jai,patrick,jax,0,0,0,0,0,1,0,0,0
+jai,patrick,jax,0,0,0,1,0,1,0,0,0
+jai,patrick,jax,0,0,0,2,0,1,0,0,0
+jai,patrick,jax,0,1,1,3,0,1,0,0,0
+jai,patrick,jax,0,0,1,3,1,1,0,0,0
+jai,patrick,jax,0,0,1,3,2,1,0,0,0
+jai,patrick,jax,0,1,1,3,2,1,0,0,0
+jai,patrick,jax,0,0,0,3,2,1,0,0,0
+jai,patrick,cox,0,0,0,0,0,1,1,0,0
+jai,patrick,cox,0,1,1,1,0,1,0,0,0
+jai,patrick,cox,0,0,0,1,1,1,0,0,0
+jai,patrick,cox,0,0,0,2,1,1,0,0,0
+jai,patrick,cox,0,1,0,3,1,1,0,0,0
+jai,patrick,cox,0,0,0,3,2,1,0,0,0
+simon,fast,dame,1,1,0,0,0,0,0,0,0
+simon,fast,dame,0,0,0,0,1,0,0,0,0
+simon,fast,dame,1,0,0,1,1,0,0,0,0
+simon,fast,dame,0,0,0,2,1,0,0,0,0
+simon,fast,dame,0,0,0,3,1,0,0,0,0
+simon,fast,jack m,0,0,0,0,0,0,1,0,0
+simon,fast,jack m,1,0,0,1,0,0,0,0,0
+simon,fast,jack m,0,0,0,2,0,0,0,0,0
+simon,fast,jack m,0,1,1,3,0,0,0,0,0
+simon,fast,jack m,1,0,1,3,1,0,0,0,0
+simon,fast,jack m,1,0,0,3,2,0,0,0,0
+simon,fast,jai,0,0,1,0,0,0,1,1,0
+simon,fast,jai,1,0,0,0,1,0,0,0,0
+simon,fast,jai,0,1,1,1,1,0,0,1,1
+simon,fast,jax,0,1,1,0,0,1,0,0,0
+simon,fast,cox,0,1,1,0,0,2,0,0,0
+simon,fast,dame,0,1,0,0,0,2,1,0,0
+simon,fast,dame,0,1,1,0,1,2,0,0,0
+parker,dean,rak,0,1,0,0,0,0,0,0,0
+parker,dean,rak,1,1,0,0,1,0,0,0,0
+parker,dean,rak,1,1,0,0,2,0,0,0,0
+parker,dean,dom,1,0,0,0,0,1,0,0,0
+parker,dean,plant,0,0,0,0,0,1,1,0,0
+parker,dean,plant,0,1,0,1,0,1,0,0,0
+parker,dean,plant,0,1,1,1,1,1,0,0,0
+parker,dean,plant,1,0,1,1,2,1,0,0,0
+parker,dean,aryo,0,0,0,0,0,2,1,0,0
+parker,dean,aryo,0,1,1,1,0,2,0,0,0
+parker,dean,bowles,1,0,0,0,0,2,1,1,0
+parker,dean,bowles,0,1,1,1,0,2,0,0,0
+parker,dean,bowles,0,0,0,1,1,2,0,0,0
+parker,dean,bowles,1,0,0,2,1,2,0,0,0
+parker,dean,bowles,0,1,1,3,1,2,0,0,0
+parker,dean,bowles,1,0,0,2,2,2,0,0,0
+parker,dean,simms,0,0,0,0,0,2,1,1,1
+parker,dean,simms,0,0,0,1,0,2,0,0,0
+parker,dean,simms,0,1,0,2,0,2,0,0,0
+parker,dean,simms,0,0,0,2,1,2,0,0,0
+parker,dean,simms,0,0,0,3,1,2,0,0,0
+parker,dean,rak,0,1,1,0,0,2,1,1,1
+simms,jakin,dom,0,0,0,0,0,0,0,0,0
+simms,jakin,dom,0,0,0,1,0,0,0,0,0
+simms,jakin,dom,0,0,0,2,0,0,0,0,0
+simms,jakin,dom,0,1,0,3,0,0,0,0,0
+simms,jakin,dom,1,0,0,3,1,0,0,0,0
+simms,jakin,parker,1,1,0,0,0,0,1,0,0
+simms,jakin,parker,0,0,0,0,1,0,0,0,0
+simms,jakin,parker,0,1,1,1,1,0,0,1,0
+simms,jakin,parker,1,1,1,1,2,0,0,0,0
+simms,jakin,plant,0,0,0,0,0,1,0,0,0
+simms,jakin,plant,1,1,1,0,0,1,0,0,1
+simms,jakin,aryo,0,0,0,0,0,1,1,0,0
+simms,jakin,aryo,0,1,1,1,0,1,0,0,0
+simms,jakin,aryo,1,0,0,1,1,1,0,0,0
+simms,jakin,aryo,0,0,0,2,1,1,0,0,0
+simms,jakin,aryo,0,1,1,2,2,1,0,0,0
+simms,jakin,aryo,1,0,0,3,2,1,0,0,0
+simms,jakin,aryo,0,1,1,3,2,1,0,0,0
+simms,jakin,bowles,0,1,1,0,0,2,0,1,0
+simms,jakin,bowles,0,0,0,0,1,2,0,0,0
+simms,jakin,bowles,1,0,0,1,1,2,0,0,0
+simms,jakin,bowles,0,1,1,2,1,2,0,0,0
+parker,dean,simms,0,0,0,0,0,0,0,0,0
+parker,dean,simms,1,0,0,1,0,0,0,0,0
+parker,dean,simms,0,1,1,2,0,0,0,0,0
+parker,dean,simms,1,1,1,2,1,0,0,0,0
+parker,dean,rak,1,0,1,0,0,0,1,0,0
+parker,dean,rak,0,1,0,0,1,0,0,0,0
+parker,dean,rak,0,0,1,0,2,0,0,0,0
+parker,dean,dom,1,0,0,0,0,1,1,0,0
+parker,dean,dom,0,0,0,1,0,1,0,0,0
+parker,dean,dom,0,0,0,2,0,1,0,0,0
+parker,dean,dom,0,1,1,3,0,1,0,0,0
+parker,dean,dom,0,1,0,3,1,1,0,0,0
+parker,dean,dom,0,0,0,3,2,1,0,0,0
+parker,dean,plant,0,0,0,0,0,1,1,1,0
+parker,dean,plant,0,1,1,1,0,1,0,0,0
+parker,dean,plant,1,0,0,1,1,1,0,0,0
+parker,dean,plant,1,0,0,2,1,1,0,0,0
+parker,dean,plant,0,1,0,3,1,1,0,0,0
+parker,dean,plant,0,1,1,3,2,1,0,0,0
+parker,dean,aryo,0,0,0,0,0,2,1,1,0
+parker,dean,aryo,0,0,0,1,0,2,0,0,0
+parker,dean,aryo,0,1,0,2,0,2,0,0,0
+parker,dean,aryo,1,0,1,2,1,2,0,0,0
+parker,dean,aryo,1,0,1,2,2,2,0,0,0
+simms,jakin,bowles,0,1,1,0,0,0,0,0,0
+simms,jakin,bowles,1,1,0,0,1,0,0,0,0
+simms,jakin,bowles,0,0,0,0,2,0,0,0,0
+simms,jakin,bowles,1,0,0,1,2,0,0,0,0
+simms,jakin,bowles,0,0,0,2,2,0,0,0,0
+simms,jakin,bowles,0,0,0,3,2,0,0,0,0
+simms,jakin,rak,0,0,0,0,0,0,1,0,0
+simms,jakin,rak,0,0,0,1,0,0,0,0,0
+simms,jakin,rak,0,1,1,2,0,0,0,0,0
+simms,jakin,dom,1,0,0,0,0,1,1,0,0
+simms,jakin,dom,0,0,0,1,0,1,0,0,0
+simms,jakin,dom,0,0,0,2,0,1,0,0,0
+simms,jakin,dom,0,0,0,3,0,1,0,0,0
+simms,jakin,parker,0,1,1,0,0,1,1,1,0
+simms,jakin,parker,0,0,0,0,0,2,1,0,1
+simms,jakin,plant,1,1,0,1,0,2,0,1,0
+simms,jakin,plant,1,0,1,1,1,2,0,0,0
+simms,jakin,plant,0,0,0,1,2,2,0,0,0
+simms,jakin,plant,0,0,0,2,2,2,0,0,0
+simms,jakin,plant,1,0,0,3,2,2,0,0,1
+simms,jakin,aryo,0,1,1,0,0,2,1,0,1
+simms,jakin,aryo,1,0,0,0,1,2,0,0,0
+simms,jakin,aryo,0,0,0,1,1,2,0,0,0
+simms,jakin,aryo,0,1,0,2,1,2,0,0,0
+simms,jakin,aryo,0,0,0,2,2,2,0,0,0
+simms,jakin,aryo,0,1,1,3,2,2,0,0,0
+parker,dean,bowles,0,0,0,0,0,0,0,0,0
+parker,dean,bowles,0,1,1,1,0,0,0,0,0
+parker,dean,simms,1,1,0,0,0,1,0,0,0
+parker,dean,simms,0,1,1,0,1,1,0,0,0
+simms,jakin,rak,0,0,0,0,0,0,0,0,0
+simms,jakin,rak,0,0,0,1,0,0,0,0,0
+simms,jakin,rak,0,1,1,2,0,0,0,0,0
+simms,jakin,dom,0,1,1,0,0,0,1,0,0
+parker,eddie,plant,0,1,0,0,0,0,0,0,0
+parker,eddie,plant,1,1,1,0,1,0,0,0,0
+parker,eddie,plant,1,0,0,0,2,0,0,0,0
+parker,eddie,plant,0,1,1,1,2,0,0,0,0
+parker,eddie,plant,1,1,0,1,2,0,0,0,0
+parker,eddie,aryo,0,1,0,0,0,1,0,0,0
+parker,eddie,aryo,1,0,0,0,1,1,0,0,0
+parker,eddie,aryo,0,0,0,1,1,1,0,0,0
+parker,eddie,aryo,0,1,1,2,1,1,0,0,0
+parker,eddie,aryo,0,0,0,2,2,1,0,0,0
+parker,eddie,aryo,1,1,0,3,2,1,0,0,0
+parker,eddie,bowles,1,0,0,0,0,2,0,0,0
+parker,eddie,bowles,0,0,0,1,0,2,0,0,0
+parker,eddie,bowles,0,0,0,2,0,2,0,0,0
+parker,eddie,bowles,0,0,0,3,0,2,0,0,0
+parker,eddie,simms,1,0,0,0,0,2,1,0,0
+parker,eddie,simms,0,0,0,1,0,2,0,0,0
+parker,eddie,simms,0,1,0,2,0,2,0,0,0
+parker,eddie,simms,0,1,1,2,1,2,0,0,0
+parker,eddie,simms,0,0,0,2,2,2,0,0,0
+parker,eddie,simms,0,0,0,3,2,2,0,0,0
+parker,eddie,rak,0,0,0,0,0,2,1,1,0
+parker,eddie,rak,0,0,1,1,0,2,0,0,0
+parker,eddie,rak,0,1,1,1,1,2,0,0,0
+parker,eddie,rak,0,0,0,1,2,2,0,0,0
+parker,eddie,rak,1,0,0,2,2,2,0,0,0
+parker,eddie,rak,0,1,1,3,2,2,0,0,0
+parker,eddie,dom,0,0,0,0,0,2,1,1,1
+parker,eddie,plant,0,1,1,0,0,2,1,1,1
+parker,eddie,plant,1,0,0,0,1,2,0,0,0
+parker,eddie,plant,0,1,1,1,1,2,0,0,0
+simms,coop,horn,0,0,0,0,0,0,0,0,0
+simms,coop,horn,0,1,1,1,0,0,0,0,0
+simms,coop,horn,1,0,0,1,1,0,0,0,0
+simms,coop,horn,0,0,0,2,1,0,0,0,0
+simms,coop,horn,0,0,0,3,1,0,0,0,0
+simms,coop,grier,0,1,0,0,0,0,1,0,0
+simms,coop,grier,1,0,0,0,1,0,0,0,0
+simms,coop,grier,0,0,0,1,1,0,0,0,0
+simms,coop,grier,1,0,0,2,1,0,0,0,0
+simms,coop,grier,0,1,1,3,1,0,0,0,0
+simms,coop,tyson,0,1,1,0,0,2,0,0,0
+simms,coop,tyson,0,1,1,0,1,2,0,0,0
+simms,coop,tyson,1,0,0,0,2,2,0,0,0
+simms,coop,tyson,0,1,0,1,2,2,0,0,0
+parker,eddie,dex,0,0,0,0,0,0,0,0,0
+parker,eddie,dex,0,0,0,1,0,0,0,0,0
+parker,eddie,dex,0,1,0,2,0,0,0,0,0
+parker,eddie,dex,0,1,1,2,1,0,0,0,0
+parker,eddie,dex,1,0,0,2,2,0,0,0,0
+parker,eddie,dex,0,1,1,3,2,0,0,0,0
+parker,eddie,dex,0,0,0,3,2,0,0,0,0
+parker,eddie,fast,0,0,0,0,0,0,1,0,0
+parker,eddie,fast,1,1,0,1,0,0,0,0,0
+parker,eddie,fast,0,0,0,1,1,0,0,0,0
+parker,eddie,fast,0,1,1,2,1,0,0,0,0
+parker,eddie,fast,0,1,1,2,2,0,0,0,0
+parker,eddie,simms,0,1,1,0,0,1,1,0,0
+parker,eddie,simms,0,1,1,0,0,2,0,0,0
+simms,coop,grier,1,0,0,0,0,0,0,0,0
+simms,coop,grier,0,0,1,1,0,0,0,0,0
+simms,coop,grier,0,0,0,1,1,0,0,0,0
+simms,coop,grier,1,0,0,2,1,0,0,0,0
+simms,coop,grier,0,1,0,3,1,0,0,0,0
+simms,coop,grier,1,0,1,3,2,0,0,0,0
+simms,coop,tyson,0,0,1,0,0,0,1,0,0
+simms,coop,tyson,0,0,0,0,1,0,0,0,0
+simms,coop,tyson,0,1,1,1,1,0,0,1,0
+simms,coop,tyson,1,0,0,1,2,0,0,0,1
+simms,coop,tyson,1,1,1,2,2,0,0,0,0
+simms,coop,tyson,0,0,0,0,0,0,0,0,0
+simms,coop,dex,0,1,1,0,0,1,0,0,0
+simms,coop,dex,1,0,0,0,1,1,0,0,0
+simms,coop,dex,1,0,0,1,1,1,0,0,0
+simms,coop,dex,1,1,1,2,1,1,0,0,0
+simms,coop,dex,1,1,1,2,2,1,0,0,0
+simms,coop,parker,0,0,0,0,0,2,0,0,0
+simms,coop,fast,0,0,0,0,0,2,1,0,0
+simms,coop,horn,0,1,1,0,0,2,1,1,0
+simms,coop,horn,1,0,0,0,1,2,0,0,0
+simms,coop,horn,0,1,0,1,1,2,0,0,0
+simms,coop,horn,1,1,1,1,2,2,0,0,0
+simms,coop,horn,1,0,0,1,2,2,0,0,0
+simms,coop,horn,0,0,0,2,2,2,0,0,0
+simms,coop,horn,1,0,0,3,2,2,0,0,0
+simms,coop,grier,0,1,1,0,0,2,1,1,1
+simms,coop,grier,1,1,1,0,1,2,0,0,0
+simms,coop,grier,0,0,1,0,2,2,0,0,0
+parker,eddie,tyson,1,0,1,0,0,0,0,0,0
+parker,eddie,tyson,1,0,1,0,1,0,0,0,0
+parker,eddie,tyson,1,0,1,0,2,0,0,0,0
+parker,eddie,dex,0,1,1,0,0,1,0,0,0
+parker,eddie,dex,1,1,0,0,1,1,0,0,0
+parker,eddie,dex,0,1,1,0,2,1,0,0,0
+parker,eddie,fast,0,1,1,0,0,2,0,0,0
+parker,eddie,fast,1,1,0,0,1,2,0,0,0
+parker,eddie,fast,1,0,1,0,2,2,0,0,0
+simms,coop,horn,0,1,1,0,0,0,0,0,0
+simms,coop,grier,1,0,0,0,0,0,1,0,0
+simms,coop,grier,0,0,0,1,0,0,0,0,0
+simms,coop,grier,0,0,0,2,0,0,0,0,0
+simms,coop,grier,0,0,0,3,0,0,0,1,0
+simms,coop,tyson,0,0,0,1,0,0,1,1,0
+simms,coop,tyson,0,0,0,2,0,0,0,0,0
+simms,coop,tyson,1,1,0,2,1,0,0,0,0
+simms,coop,tyson,0,1,1,2,2,0,0,0,0
+simms,coop,dex,0,0,0,0,0,1,0,0,0
+parker,eddie,simms,0,0,0,0,0,0,0,0,0
+parker,eddie,simms,0,1,1,1,0,0,0,0,0
+simms,coop,horn,0,1,1,0,0,0,0,0,0
+simms,coop,horn,1,0,0,0,1,0,0,0,0
+simms,coop,horn,0,0,0,1,1,0,0,0,0
+simms,coop,horn,1,1,0,2,1,0,0,0,0
+simms,coop,horn,0,0,0,2,2,0,0,0,0
+simms,coop,horn,0,1,0,3,2,0,0,0,0
+simms,coop,grier,0,0,0,0,0,0,0,0,0
+simms,coop,grier,0,0,0,1,0,0,0,0,0
+simms,coop,grier,1,0,0,2,0,0,0,0,0
+simms,coop,grier,0,0,0,3,0,0,0,0,0
+parker,linder,tyson,0,1,0,0,0,0,0,0,0
+parker,linder,tyson,0,1,0,0,1,0,0,0,0
+parker,linder,tyson,0,1,1,0,2,0,0,0,0
+parker,linder,dex,0,1,1,0,0,1,0,0,0
+parker,linder,fast,0,0,0,0,0,2,0,0,0
+parker,linder,fast,0,1,0,1,0,2,0,0,0
+parker,linder,fast,1,0,0,1,1,2,0,0,0
+parker,linder,fast,0,0,1,2,1,2,0,0,0
+parker,linder,fast,0,1,0,2,2,2,0,0,0
